@@ -15,3 +15,5 @@ Navicat Premiun 16  version:16.0.11
 
 students在students压缩包内，没有整合到一起，由于文件冲突，test 和students不能同时在apache中加载，否则会报错
 
+![image](https://github.com/utopia-null/Student-status-management-system/blob/19b8650756314441a855d7e08acd90a87ad348a4/11.png)
+![image](https://github.com/utopia-null/Student-status-management-system/blob/19b8650756314441a855d7e08acd90a87ad348a4/22.png)
